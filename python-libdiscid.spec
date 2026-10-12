@@ -15,7 +15,7 @@
 
 Name:           python-libdiscid
 Version:        2.0.3
-Release:        %{?commit_date:~0.%{commit_date}.}2
+Release:        %{?commit_date:~0.%{commit_date}.}3
 Summary:        cython based Python bindings for libdiscid
 Group:          Multimedia
 License:        MIT
